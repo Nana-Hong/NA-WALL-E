@@ -21,8 +21,8 @@ The distance detector is the main input. When it detects that someone is approac
 
  
 ## PLAN
-<img width="450" alt="截屏2023-05-13 18 35 39" src="https://github.com/Nana-Hong/NA-WALL-E/assets/119884327/65b19d0f-bc08-461b-80cd-61dc3b0504c3">
-<img width="400" alt="截屏2022-11-29 05 58 31" src="https://github.com/Nana-Hong/NA-WALL-E/assets/119884327/f7c77706-914a-4a0e-ba38-da23d8944973"><br/>
+<img width="400" alt="截屏2023-05-13 18 35 39" src="https://github.com/Nana-Hong/NA-WALL-E/assets/119884327/65b19d0f-bc08-461b-80cd-61dc3b0504c3">
+<img width="350" alt="截屏2022-11-29 05 58 31" src="https://github.com/Nana-Hong/NA-WALL-E/assets/119884327/f7c77706-914a-4a0e-ba38-da23d8944973"><br/>
 <img width="500" alt="截屏2023-05-13 18 35 50" src="https://github.com/Nana-Hong/NA-WALL-E/assets/119884327/d1a8c741-2128-4791-974b-80684b27e261"><br/>
 1- I will try to run the face recognition project to make sure the main code is successful <br/>
 2- I will run my code on Tinkercad to make the theory successful<br/>
